@@ -6,3 +6,5 @@ Por otra parte, atendiendo al problema propuesto. El problema por considerar con
 Queremos facilitar la tarea de detección de patologías, en este caso la enfermedad de neumonía al personal sanitario, dando una segunda opinión mediante el uso del aprendizaje profundo con redes neuronales convolucionales, optimizando así el tiempo de estos facultativos y agilizando el sistema.
 
 Dado este problema, nuestro segundo objetivo es desarrollar un modelo de red neuronal convolucional que realice de forma óptima la correcta clasificación de imágenes de pulmón. Esta clasificación consta en pulmones con la patología neumonía y pulmones sanos, es decir, pulmones que no presentan la enfermedad neumonía. El trabajo desarrollado lo podemos encontrar en el subdirectorio "Reto Kaggle"
+
+El dataset lo podemos encontrar en el siguiente enlace: https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia?
